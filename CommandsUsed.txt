@@ -1,0 +1,15 @@
+apt update
+apt upgrade
+apt install curl
+
+# Firefox Nightly
+add-apt-repository ppa:ubuntu-mozilla-daily/ppa
+apt-get update
+apt-get install firefox-trunk
+
+# Remmina
+apt-add-repository ppa:remmina-ppa-team/remmina-next
+apt update
+apt install remmina remmina-plugin-rdp remmina-plugin-secret
+
+
