@@ -8,5 +8,8 @@ Changes that are present in Version 2.0 of SunmiOS:
 - Installed Firefox Nightly using APT
 - Installed Remmina for Remote Connections to other Clients using APT
 - (Not working)Installed PlayOnLinux for Cosmic Version
+- Deactivated Minimal Installation
 
 
+To tweak the base version of Ubuntu I used Cubic
+https://github.com/PJ-Singh-001/Cubic
